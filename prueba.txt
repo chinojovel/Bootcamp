@@ -1,0 +1,16 @@
+Ruben			8.0
+Mauricio			10.0
+Jose			6.0
+Ricardo			4.0
+Pedro			3.0
+Carlos			10.0
+Julio			5.0
+Jose 			9.0
+Daniela			9.0
+Pocasangre			7.0
+-------------------------------------------------------------------------------------------------------------- 
+La nota promedio es 7.1
+La nota mayor del grupo es 10.0
+La nota minima del grupo es 3.0
+La nota mas repeteida es [9.0, 10.0] Y se ha repetido 2 veces 
+La nota menos repeteida es [8.0, 4.0, 5.0, 6.0, 3.0, 7.0] Y se ha repetido 1 veces 
