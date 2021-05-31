@@ -1,3 +1,8 @@
+//Author: Mauricio Daniel Hernandez Jovel
+/*Project:We need to manage your grades as a group, we need to input your name and your evaluation result (one number from 0 to 10).
+Use text files as a database. Statistical module of grades obtained will be required. Is not necessary to use OOP, but we need a good structure of the application.
+ We will need to see your top-down design as well.
+ */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
